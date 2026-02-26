@@ -12,10 +12,10 @@ const Projects = () => {
       tech: ["React.js","Node.js","Express.js","SQL","Java APIs","ML","Three.js"],
       
       images: [
-        "public/images/greenshelf/IMG1.jpeg",
-        "public/images/greenshelf/IMG2.jpeg",
-        "public/images/greenshelf/IMG3.jpeg",
-        "public/images/greenshelf/IMG4.jpeg"
+        "/images/greenshelf/IMG1.jpeg",
+        "/images/greenshelf/IMG2.jpeg",
+        "/images/greenshelf/IMG3.jpeg",
+        "/images/greenshelf/IMG4.jpeg"
       ]
     },
     {
@@ -26,10 +26,10 @@ const Projects = () => {
       tech: ["React.js","Node.js","MongoDB","Express.js","JWT","Stripe API"],
       github: "https://github.com/wizardishuman/MAJOR_PROJECT",
       images: [
-        "public/images/tripify/IMG1.png",
-        "public/images/tripify/IMG2.png",
-        "public/images/tripify/IMG3.png",
-        "public/images/tripify/IMG4.png"
+        "/images/tripify/IMG1.png",
+        "/images/tripify/IMG2.png",
+        "/images/tripify/IMG3.png",
+        "/images/tripify/IMG4.png"
       ]
     },
     {
@@ -40,10 +40,10 @@ const Projects = () => {
       tech: ["React.js","Socket.io","Express.js","MongoDB","JWT Auth"],
       github: "https://github.com/wizardishuman/confess-it-out",
       images: [
-        "public/images/confessitout/conf1.png",
-        "public/images/confessitout/conf2.png",
-        "public/images/confessitout/conf3.png",
-        "public/images/confessitout/conf4.png"
+        "/images/confessitout/conf1.png",
+        "/images/confessitout/conf2.png",
+        "/images/confessitout/conf3.png",
+        "/images/confessitout/conf4.png"
       ]
     }
   ];
